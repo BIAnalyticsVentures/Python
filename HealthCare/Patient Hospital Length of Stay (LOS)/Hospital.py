@@ -56,7 +56,7 @@ print('Setup Complete')
 #### Identify & Change Working Directory ####
 print('System Path: ', sys.executable)
 print('\n\n')
-os.chdir('C:/Users/windo/Desktop/PythonVentures/HospitalLOS/datafiles')
+os.chdir('filepath/filename')
 currentDirectory=os.getcwd()
 print(currentDirectory)	
 print('\n')	
