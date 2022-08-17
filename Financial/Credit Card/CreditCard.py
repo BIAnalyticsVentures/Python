@@ -31,6 +31,6 @@ path = os.getcwd()
 #print(path)
 #print('\n')
 
-filepath=os.chdir('C:/Users/windo/Desktop/TextMiningR/PythonScripts')
+filepath=os.chdir('filepath/filename')
 print(filepath)
 #print('\n')
