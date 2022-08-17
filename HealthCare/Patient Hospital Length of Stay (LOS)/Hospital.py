@@ -5,7 +5,7 @@ Cases with higher Lengh of Stay (LOS) risk can have their treatment plan
 optimized to minimize LOS and lower the chance of getting a hospital-acquired conditions 
 Prior knowledge of LOS can aid in logistics such as bed management/planning/allocation
 Created on Sun Nov 21 09:45:37 2021
-@Author: BIAnalyticsVentures/BIVentures
+@Author:  @BIVentures of @BIAnalyticsVentures
 File(s): Sample Data files - publicly available datasets MIMIC-III DB 
 """
 
