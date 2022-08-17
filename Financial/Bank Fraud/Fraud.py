@@ -3,7 +3,6 @@
 #### ---------------------------------- ####
 Created on Tue Mar  1 12:20:52 2022
 @Author:  @BIVentures of @BIAnalyticsVentures
-Also @author: BI Ventures
 Purpose:Fraud Detection on Bank Financial Payment System
 Data Transformation
 Exploratory Data Analysis
