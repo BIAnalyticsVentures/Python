@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Wed Sep 30 12:23:55 2020
-@Author: BIVentures of BIAnalyticsVentures
+@Author:  @BIVentures of @BIAnalyticsVentures
 """
 
 #Choropleth maps are popular thematic maps to represent statistical data on predetermined geographic areas (i.e., countries)
