@@ -4,10 +4,6 @@ Created on Wed Sep 30 12:23:55 2020
 @Author:  @BIVentures of @BIAnalyticsVentures
 """
 
-#Choropleth maps are popular thematic maps to represent statistical data on predetermined geographic areas (i.e., countries)
-#Choropleth maps are used through various shading patterns/symbols in relation to a data variable  
-#Choropleth maps are good at utilizing data to easily represent the variability of the desired measurement across a region
-
 import pickle
 import os.path
 import time
